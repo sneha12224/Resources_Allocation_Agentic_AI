@@ -1,0 +1,212 @@
+[
+  {
+    "id": "3e798eb5-e963-488f-be86-9f93ed04dd60",
+    "name": "AI-Powered Career Guidance & Skill Recommendation Platform",
+    "description": "Description:\nA platform that analyzes a student’s skills, interests, and academic records to recommend suitable career paths, courses, and internships.",
+    "summary": "A platform for students to receive personalized career, course, and internship recommendations based on their skills, interests, and academic records, utilizing data analysis and a recommendation engine.",
+    "required_skills": [
+      "React"
+    ],
+    "complexity": "high",
+    "team_size": 5,
+    "timeline": 12,
+    "estimated_cost": 0,
+    "budget": 90000,
+    "team": [],
+    "skill_gaps": {
+      "missing_skills": [
+        "React"
+      ],
+      "covered_skills": [],
+      "coverage_percentage": 0
+    },
+    "all_scored_employees": [],
+    "created_at": "2025-10-08 15:01"
+  },
+  {
+    "id": "f72f0782-141d-4990-ab49-b5ce10330800",
+    "name": "AI-Powered Career Guidance & Skill Recommendation Platform",
+    "description": "Description:\nA platform that analyzes a student’s skills, interests, and academic records to recommend suitable career paths, courses, and internships.",
+    "summary": "A platform designed to analyze student data including skills, interests, and academic records to generate personalized recommendations for suitable career paths, courses, and internships.",
+    "required_skills": [
+      "React"
+    ],
+    "complexity": "high",
+    "team_size": 5,
+    "timeline": 24,
+    "estimated_cost": 57200,
+    "budget": 90000,
+    "team": [
+      {
+        "name": "Frank",
+        "skills": [
+          "Node",
+          "React",
+          "MongoDB"
+        ],
+        "experience": 3,
+        "workload": 0
+      },
+      {
+        "name": "Bob",
+        "skills": [
+          "React",
+          "Design",
+          "Figma"
+        ],
+        "experience": 2,
+        "workload": 0
+      },
+      {
+        "name": "David",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes"
+        ],
+        "experience": 5,
+        "workload": 0
+      },
+      {
+        "name": "Charlie",
+        "skills": [
+          "Django",
+          "Flask",
+          "DevOps"
+        ],
+        "experience": 4,
+        "workload": 0
+      },
+      {
+        "name": "Grace",
+        "skills": [
+          "Data Science",
+          "Python",
+          "SQL"
+        ],
+        "experience": 4,
+        "workload": 0
+      }
+    ],
+    "skill_gaps": {
+      "missing_skills": [],
+      "covered_skills": [
+        "React"
+      ],
+      "coverage_percentage": 100
+    },
+    "all_scored_employees": [
+      {
+        "employee": {
+          "name": "Frank",
+          "skills": [
+            "Node",
+            "React",
+            "MongoDB"
+          ],
+          "experience": 3,
+          "workload": 0
+        },
+        "score": 100,
+        "experience": 3
+      },
+      {
+        "employee": {
+          "name": "Bob",
+          "skills": [
+            "React",
+            "Design",
+            "Figma"
+          ],
+          "experience": 2,
+          "workload": 0
+        },
+        "score": 100,
+        "experience": 2
+      },
+      {
+        "employee": {
+          "name": "David",
+          "skills": [
+            "AWS",
+            "Docker",
+            "Kubernetes"
+          ],
+          "experience": 5,
+          "workload": 0
+        },
+        "score": 20,
+        "experience": 5
+      },
+      {
+        "employee": {
+          "name": "Charlie",
+          "skills": [
+            "Django",
+            "Flask",
+            "DevOps"
+          ],
+          "experience": 4,
+          "workload": 0
+        },
+        "score": 20,
+        "experience": 4
+      },
+      {
+        "employee": {
+          "name": "Grace",
+          "skills": [
+            "Data Science",
+            "Python",
+            "SQL"
+          ],
+          "experience": 4,
+          "workload": 0
+        },
+        "score": 20,
+        "experience": 4
+      },
+      {
+        "employee": {
+          "name": "Alice",
+          "skills": [
+            "Python",
+            "AI/ML",
+            "SQL"
+          ],
+          "experience": 3,
+          "workload": 0
+        },
+        "score": 15,
+        "experience": 3
+      },
+      {
+        "employee": {
+          "name": "Eva",
+          "skills": [
+            "C++",
+            "Embedded",
+            "Testing"
+          ],
+          "experience": 2,
+          "workload": 0
+        },
+        "score": 10,
+        "experience": 2
+      },
+      {
+        "employee": {
+          "name": "liosh",
+          "skills": [
+            "DevOps"
+          ],
+          "experience": 2,
+          "workload": 0
+        },
+        "score": 10,
+        "experience": 2
+      }
+    ],
+    "created_at": "2025-10-08 15:02"
+  }
+]

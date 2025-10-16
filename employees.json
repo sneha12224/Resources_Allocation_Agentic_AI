@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Alice",
+    "skills": [
+      "Python",
+      "AI/ML",
+      "SQL"
+    ],
+    "experience": 3,
+    "workload": 0
+  },
+  {
+    "name": "Bob",
+    "skills": [
+      "React",
+      "Design",
+      "Figma"
+    ],
+    "experience": 2,
+    "workload": 0
+  },
+  {
+    "name": "Charlie",
+    "skills": [
+      "Django",
+      "Flask",
+      "DevOps"
+    ],
+    "experience": 4,
+    "workload": 0
+  },
+  {
+    "name": "David",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "experience": 5,
+    "workload": 0
+  },
+  {
+    "name": "Eva",
+    "skills": [
+      "C++",
+      "Embedded",
+      "Testing"
+    ],
+    "experience": 2,
+    "workload": 0
+  },
+  {
+    "name": "Frank",
+    "skills": [
+      "Node",
+      "React",
+      "MongoDB"
+    ],
+    "experience": 3,
+    "workload": 0
+  },
+  {
+    "name": "Grace",
+    "skills": [
+      "Data Science",
+      "Python",
+      "SQL"
+    ],
+    "experience": 4,
+    "workload": 0
+  },
+  {
+    "name": "liosh",
+    "skills": [
+      "DevOps"
+    ],
+    "experience": 2,
+    "workload": 0
+  }
+]
